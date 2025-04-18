@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **jmangusarmy@gmail.com**
 
-- 📄 Know about my experiences ["C:\Users\jmang\Desktop\Resume Cover Letter\John Mangus Resume Final.docx"]("C:\Users\jmang\Desktop\Resume Cover Letter\John Mangus Resume Final.docx")
-
 - ⚡ Fun fact **I like to think I am decent at golf...**
 
 <h3 align="left">Connect with me:</h3>
